@@ -67,6 +67,7 @@
         display: flex;
         align-items: center;
         justify-content: center;
+        align-content:center;
 
         img {
           &.left,
@@ -91,7 +92,11 @@
       .center {
         padding: 10px;
         border-radius: 10px;
+        justify-content: center;
+        align-items: center;
+        align-content:center;
         background-color: rgb(250, 244, 245);
+        
 
         @include mobile{
           font-size: 12px;
@@ -102,6 +107,7 @@
         display: flex;
         align-items: center;
         flex-direction: column;
+        align-content:center;
         justify-content: center;
 
         h3 {

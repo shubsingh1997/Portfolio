@@ -31,7 +31,7 @@ export default function Testimonials() {
         "assets/Raksha.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       icon: "assets/linkedin.png",
       desc:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam dolorem",
+        "I taught Shubham Singh in two semesters. He was also the part of my research group and did major project under my supervision. I found him very keen to learn with research mindset. His software and programming skills are really extraordinary.",
     },
   ];
   return (

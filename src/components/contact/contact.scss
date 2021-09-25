@@ -20,11 +20,13 @@
     flex: 1 1;
     display: flex;
     flex-direction: column;
+    vertical-align: middle;
     align-items: center;
     justify-content: center;
 
     h2 {
       font-size: 30px;
+      align-items: center;
     }
 
     form {
@@ -32,7 +34,7 @@
       height: 70%;
       display: flex;
       flex-direction: column;
-      align-items: center;
+          
       justify-content: space-around;
 
       input {
@@ -40,23 +42,39 @@
         height: 30px;
         font-size: 14px;
 
+        border-radius: 10px;
+
         @include mobile {
           width: 200px;
           height: 20px;
         }
       }
       
-
+      label {
+        
+        text-align: left;
+        float: left;
+        font-size: 14px; 
+        align-items: baseline;       
+        @include mobile {
+          width: 200px;
+          height: 20px;
+        }
+      }
+      
       textarea {
         width: 300px;
         height: 200px;
         font-size: 14px;
+
+        border-radius: 10px;
 
         @include mobile {
           width: 200px;
           height: 100px;
         }
       }
+
 
       button {
         width: 150px;

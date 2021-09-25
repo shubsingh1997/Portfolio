@@ -12,7 +12,7 @@ export default function Aboutme() {
         "https://labs.utdallas.edu/app/uploads/sites/29/2019/01/cropped-UTDmono_solid_flame.png?auto=compress&cs=tinysrgb&dpr=2&w=500",
       icon: "assets/linkedin.png",
       desc:
-        "Currently I'm a student at University of Texas at Dallas pusrsing my masters degree in Computer Science",
+        "Currently, I'm a student at University of Texas at Dallas pusrsing my masters degree in Computer Science",
     },
     {
       id: 2,
@@ -23,7 +23,7 @@ export default function Aboutme() {
         "assets/Shubham.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       icon: "assets/linkedin.png",
       desc:
-        "Hi, My name is Shubham Singh. Please feel free to connect with me in case of queries.  ",
+        "Hi there 😄, I'm Shubham Singh, a Technology Enthusiast 🚀 from India. My interests are DevOps technologies, Artificial Intelligence, and developing some useful and cool stuff xD.🤔 Ask me about anything; I love to answer!💬",
       featured: true,
     },
     {
@@ -35,7 +35,7 @@ export default function Aboutme() {
         "https://www.accenture.com/t20190904T055750Z__w__/us-en/_acnmedia/Accenture/Dev/Redesign/Acc_GT_Dimensional_Purple_RGB_REV.svg",
       icon: "assets/linkedin.png",
       desc:
-        "I have worked as a Full-Stack Developer in Accenture for the past 2 years, mainly on Springboot/Java and React.",
+        "I have worked as a Software Developer in Accenture for the past two years. I explored the realms of MERN Springboot and AWS during my tenure.",
     },
   ];
   return (
