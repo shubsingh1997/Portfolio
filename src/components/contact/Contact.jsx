@@ -37,10 +37,10 @@ export default function Contact() {
                             
                             <input type="email" id="email" name="Email" required type="email"/>
                         </div>
-                        <label type="label" htmlFor="subject"  >Enter your phone number*</label>
+                        <label type="label" htmlFor="subject"  >Enter your phone number</label>
                         <div className="form-field">
                             
-                            <input type="text" id="subject" name="Number" pattern="[0-9]" required/>
+                            <input type="text" id="subject" name="Number" />
                         </div>
                         <label type="label" >Enter your Message*</label>
                         <div className="form-field">

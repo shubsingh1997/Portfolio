@@ -34,7 +34,7 @@ export default function Works() {
         "An efficient and random key generator algorithm for low noise/power for CPS/IoT Networks",
       img:
         "https://i.pinimg.com/originals/a9/f6/94/a9f69465d972a004ad581f245d6ad581.jpg",
-        pic:"./assets/ieee.png",
+        pic:"https://github.com/shubsingh1997/Portfolio/blob/master/public/assets/ieee.PNG",
         project:"https://ieeexplore.ieee.org/abstract/document/8933725",
     },
     {
@@ -45,7 +45,7 @@ export default function Works() {
         "An efficient and random key generator algorithm for low noise/power for CPS/IoT Networks",
       img:
         "https://i.pinimg.com/originals/a9/f6/94/a9f69465d972a004ad581f245d6ad581.jpg",
-        pic:"./assets/paper2.png",
+        pic:"https://github.com/shubsingh1997/Portfolio/blob/master/public/assets/paper2.PNG",
         project:"https://www.researchgate.net/publication/333371553_Low_Complexity_Security_Algorithm_for_CPS_IoT_Networks",
     },
   ];
