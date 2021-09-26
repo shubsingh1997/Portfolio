@@ -20,7 +20,7 @@ export default function Aboutme() {
       but: true,
       
       img:
-        "assets/Shubham.png?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "assets/shubham.png?auto=compress&cs=tinysrgb&dpr=2&w=500",
       icon: "assets/linkedin.png",
       desc:
         "Hi there 😄, I'm Shubham Singh, a Technology Enthusiast 🚀 from India. My interests are DevOps technologies, Artificial Intelligence, and developing some useful and cool stuff xD.🤔 Ask me about anything; I love to answer!💬",
