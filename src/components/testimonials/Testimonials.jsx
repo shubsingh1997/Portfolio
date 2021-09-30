@@ -10,7 +10,7 @@ export default function Testimonials() {
         "assets/Nitisha.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       icon: "assets/linkedin.png",
       desc:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam dolorem.",
+        "He makes an effort to get things right, not just get it over with. I always appreciate his dedication towards the work. It was always fun to work with Shubham. He is full of energy and enthusiasm",
     },
     {
       id: 2,
@@ -20,7 +20,7 @@ export default function Testimonials() {
         "assets/Swapnali.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
       icon: "assets/linkedin.png",
       desc:
-        "Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat magnam dolorem recusandae perspiciatis ducimus vel hic temporibus. ",
+        "I have worked with Shubham when since he joined as a fresher in Accenture. Shubham is hardworking, sincere and quick learner. He always gives his best for any work he does.",
       featured: true,
     },
     {

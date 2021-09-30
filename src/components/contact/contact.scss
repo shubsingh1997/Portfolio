@@ -17,6 +17,8 @@
     }
   }
   .right {
+    width: device-width ;
+    zoom: 1.0 ;
     flex: 1 1;
     display: flex;
     flex-direction: column;
@@ -30,6 +32,8 @@
     }
 
     form {
+      width: device-width ;
+      zoom: 1.0 ;
       width: 70%;
       height: 70%;
       display: flex;
@@ -38,6 +42,8 @@
       justify-content: space-around;
 
       input {
+        width: device-width ;
+        zoom: 1.0 ;
         width: 300px;
         height: 30px;
         font-size: 14px;
